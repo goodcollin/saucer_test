@@ -3,7 +3,7 @@
     <vmap:AdBreak timeOffset="00:00:15.000" breakType="linear" breakId="ad-break-1">
         <vmap:AdSource id="ad-source-1" allowMultipleAds="false" followRedirects="true">
             <vmap:AdTagURI templateType="vast3">
-                <![CDATA[https://customer-1ffzfzft0iy8vfky.cloudflarestream.com/edbee0a2aa823c7874b925ed983fc8fd/manifest/video.m3u8]]>
+                <![CDATA[https://goodcollin.github.io/saucer_test/vast]]>
             </vmap:AdTagURI>
         </vmap:AdSource>
     </vmap:AdBreak>

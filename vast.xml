@@ -1,16 +1,22 @@
-<VAST version="3.0">
-    <Ad id="1">
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="3.0">
+    <Ad id="6359933237">
         <InLine>
-            <AdSystem>Version3</AdSystem>
-            <AdTitle>Yolo Inflatable</AdTitle>
+            <AdSystem>GDFP</AdSystem>
+            <AdTitle>External - Preroll (copy)</AdTitle>
             <Creatives>
-                <Creative>
+                <Creative id="138442077308" sequence="1">
                     <Linear>
-                        <Duration>00:00:15</Duration>
+                        <Duration>00:00:10</Duration>
+                        <VideoClicks>
+                            <ClickThrough>
+                                <![CDATA[https://saucer.plus]]>
+                            </ClickThrough>
+                        </VideoClicks>
                         <MediaFiles>
-                           <MediaFile delivery="progressive" type="video/mp4">
-                              <![CDATA[https://download-video.akamaized.net/v2-1/playback/f88c079a-4128-4cf3-a952-fbc475e55341/45dfcb4f?__token__=st=1700972884~exp=1700987284~acl=%2Fv2-1%2Fplayback%2Ff88c079a-4128-4cf3-a952-fbc475e55341%2F45dfcb4f%2A~hmac=daed74d0b55592623a0477e4d19f5faf17bcf703456fb79955cda114262c066a&r=dXMtd2VzdDE%3D]]>
-                          </MediaFile>
+                            <MediaFile id="GDFP" delivery="progressive" type="video/mp4" width="640" height="360">
+                                <![CDATA[https://download-video.akamaized.net/v2-1/playback/f88c079a-4128-4cf3-a952-fbc475e55341/45dfcb4f?__token__=st=1700975423~exp=1700989823~acl=%2Fv2-1%2Fplayback%2Ff88c079a-4128-4cf3-a952-fbc475e55341%2F45dfcb4f%2A~hmac=1b7827aa936a93aab2131adae4d7a90653b3c09d21f7c8cdca0cc12cf6cedb33&r=dXMtd2VzdDE%3D]]>
+                            </MediaFile>
                         </MediaFiles>
                     </Linear>
                 </Creative>

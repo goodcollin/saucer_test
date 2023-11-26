@@ -10,11 +10,11 @@
                     <Linear>
                         <Duration>00:00:10</Duration>
                         <MediaFiles>
-                            <MediaFile id="1" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="143" scalable="true" maintainAspectRatio="true">
-                                <![CDATA[http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4]]>
+                            <MediaFile id="1" delivery="progressive" width="640" height="360" type="application/vnd.apple.mpegurl" bitrate="143" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://customer-1ffzfzft0iy8vfky.cloudflarestream.com/edbee0a2aa823c7874b925ed983fc8fd/manifest/video.m3u8]]>
                             </MediaFile>
-                            <MediaFile id="2" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="240" scalable="true" maintainAspectRatio="true">
-                                <![CDATA[http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4]]>
+                            <MediaFile id="2" delivery="progressive" width="1280" height="720" type="application/vnd.apple.mpegurl" bitrate="240" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://customer-1ffzfzft0iy8vfky.cloudflarestream.com/edbee0a2aa823c7874b925ed983fc8fd/manifest/video.m3u8]]>
                             </MediaFile>
                         </MediaFiles>
                     </Linear>

@@ -6,10 +6,10 @@
             <Creatives>
                 <Creative>
                     <Linear>
-                        <Duration>00:00:16</Duration>
+                        <Duration>00:00:15</Duration>
                         <MediaFiles>
-                           <MediaFile delivery="progressive" type="application/vnd.apple.mpegurl">
-                              <![CDATA[https://customer-1ffzfzft0iy8vfky.cloudflarestream.com/edbee0a2aa823c7874b925ed983fc8fd/manifest/video.m3u8]]>
+                           <MediaFile delivery="progressive" type="video/mp4">
+                              <![CDATA[https://download-video.akamaized.net/v2-1/playback/f88c079a-4128-4cf3-a952-fbc475e55341/45dfcb4f?__token__=st=1700972884~exp=1700987284~acl=%2Fv2-1%2Fplayback%2Ff88c079a-4128-4cf3-a952-fbc475e55341%2F45dfcb4f%2A~hmac=daed74d0b55592623a0477e4d19f5faf17bcf703456fb79955cda114262c066a&r=dXMtd2VzdDE%3D]]>
                           </MediaFile>
                         </MediaFiles>
                     </Linear>

@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="3.0">
  <Ad id="6359933237">
@@ -30,10 +31,15 @@
        <Tracking event="exitFullscreen"><![CDATA[https://pubads.g.doubleclick.net/pagead/interaction/?ai=BN7jzINJiZeafGbDdj-8P__OLsAOL-uzARgAAABABII64hW84AVj86KnegwRgyYaAgNyjxBS6AQo3Mjh4OTBfeG1syAEFmAKw6gHAAgLgAgDqAiUvMjE3NzU3NDQ5MjMvZXh0ZXJuYWwvdm1hcF9hZF9zYW1wbGVz-AKE0h6QA-gCmAOkA6gDAeAEAdIFBhC1wtPYF5AGAaAGI6gHmgaoB_PRG6gHltgbqAeqm7ECqAeDrbECqAf_nrECqAffn7EC2AcB4AcB0ggUCIBhEAEYHTICigI6AoBASL39wTrYCAKACgWYCwGqDQJVU9AVAfgWAYAXAQ&sigh=Dg_djeUBr8U&label=vast_exit_fullscreen&ad_mt=%5BAD_MT%5D]]></Tracking>
       </TrackingEvents>
       <VideoClicks>
-       <ClickThrough id="GDFP"><![CDATAhttps://saucer.plus]]></ClickThrough>
+       <ClickThrough id="GDFP"><![CDATA[https://pubads.g.doubleclick.net/pcs/click?xai=AKAOjsvSO55wO-QCU-2_BB-z2j78ROTGmqJUdN5rq9ZJqh7FyOp4-cH9T2wa1o3QOt89uNLNJYDc4-4LAW8EJWA6c49eVvYQhlRjzQyiKq_EuSAM-WSn5_rHjIyN4XcN8F2WiY4Mmu0kMOCuR46Ev7qH9RyaDJcRtvqG637qVL_Hg49WfR7aHg2HUdj_XgZ9cEqDYzmRQ-KDrcgHlcoBmbzdOCrXClAvj3JQMLL_GVZg3qM4_SxjKw3WXkcntQjJC6FAKP7Rg1OIL_Dml09oS4mFIcwZOVZ9mVh_divWBLSYfximH2Cjhr18l9r1tK-CuDE-iiM2&sai=AMfl-YTBtoFCXe08A4njBWH85mYGpfQFbBMgcdRKtqg-FBCB7YJUAG-oe3Aoiy2IS8oHzlSAVGFz1CrKcaYNyFIWQGpXSpzhSe1hvcPDIQ&sig=Cg0ArKJSzMV9N61h9G2V&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://googleads.github.io/googleads-ima-html5/vsi/]]></ClickThrough>
       </VideoClicks>
       <MediaFiles>
-       <MediaFile id="GDFP" delivery="streaming" width="426" height="240" type="application/x-mpegURL" minBitrate="49" maxBitrate="258" scalable="true" maintainAspectRatio="true"><![CDATA[https://customer-1ffzfzft0iy8vfky.cloudflarestream.com/edbee0a2aa823c7874b925ed983fc8fd/manifest/video.m3u8]]></MediaFile>
+       <MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="143" scalable="true" maintainAspectRatio="true"><![CDATA[http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4]]></MediaFile>
+       <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="240" scalable="true" maintainAspectRatio="true"><![CDATA[http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4]]></MediaFile>
+       <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="262" scalable="true" maintainAspectRatio="true"><![CDATA[http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4]]></MediaFile>
+       <MediaFile id="GDFP" delivery="progressive" width="854" height="480" type="video/mp4" bitrate="186" scalable="true" maintainAspectRatio="true"><![CDATA[http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4]]></MediaFile>
+       <MediaFile id="GDFP" delivery="streaming" width="426" height="240" type="application/x-mpegURL" minBitrate="49" maxBitrate="258" scalable="true" maintainAspectRatio="true"><![CDATA[https://redirector.gvt1.com/api/manifest/hls_variant/requiressl/yes/source/dclk_video_ads/id/37685dc1cfc45f63/itag/0/playlist_type/LIVE/acao/yes/mime/application%2Fx-mpegURL/ctier/L/ip/0.0.0.0/ipbits/0/expire/1732511136/sparams/ip,ipbits,expire,requiressl,source,id,itag,playlist_type,acao,mime,ctier/signature/BBD59ACAFE11BAAF95070CE437E1542A45F2CBF1.AEFAE48AB9187D7B9BBDE866CC72619977C7A6B3/key/ck2/file/index.m3u8]]></MediaFile>
+       <MediaFile id="GDFP" delivery="streaming" width="426" height="240" type="application/dash+xml" minBitrate="49" maxBitrate="258" scalable="true" maintainAspectRatio="true"><![CDATA[https://redirector.gvt1.com/api/manifest/dash/requiressl/yes/source/dclk_video_ads/id/37685dc1cfc45f63/itag/0/playlist_type/LIVE/acao/yes/mime/application%2Fdash+xml/ctier/L/ip/0.0.0.0/ipbits/0/expire/1732511136/sparams/ip,ipbits,expire,requiressl,source,id,itag,playlist_type,acao,mime,ctier/signature/779F45968D11F3689D5C2DAF1463058B0EB162F8.3963882940BF9A2A1BC43205D91DCBA0C95D8504/key/ck2]]></MediaFile>
       </MediaFiles>
      </Linear>
     </Creative>

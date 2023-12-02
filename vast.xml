@@ -8,13 +8,13 @@
             <Creatives>
                 <Creative>
                     <Linear>
-                        <Duration>00:00:10</Duration>
+                        <Duration>00:00:13</Duration>
                         <MediaFiles>
                             <MediaFile id="1" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="143" scalable="true" maintainAspectRatio="true">
-                                <![CDATA[http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4]]>
+                                <![CDATA[https://d36qqs1mz2ehby.cloudfront.net/nE04fweE98.mp4]]>
                             </MediaFile>
                             <MediaFile id="1" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="143" scalable="true" maintainAspectRatio="true">
-                                <![CDATA[http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4]]>
+                                <![CDATA[https://d36qqs1mz2ehby.cloudfront.net/nE04fweE98.mp4]]>
                             </MediaFile>
                         </MediaFiles>
                     </Linear>
